@@ -6,4 +6,6 @@ def position_taken(array, index)
   else
     return false
   end
-end   
+end
+
+position_taken('')
